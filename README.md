@@ -32,22 +32,24 @@ This keyboard will use KMK firmware
 
 All from typeractive
 
-60x Kailh Choc v1 Low Profile Switches:-----------$54 aud / $36.17 usd
+60x Kailh Choc v1 Low Profile Switches:
 
-2x Nice Nano v2.0:--------------------------------$76 aud / $50.91 usd
+2x Nice Nano v2.0:
 
-2x Machine Sockets and Pins:----------------------$20 aud / $13.40 usd
+2x Machine Sockets and Pins:
 
-2x Battery Jack:----------------------------------$2  aud / $1.34 usd
+2x Battery Jack
 
-60x SMD Diodes:-----------------------------------$12 aud / $8.04 usd
+60x SMD Diodes
 
-60x Kailh Hotswap Sockets:------------------------$18 aud / $12.06 usd
+60x Kailh Hotswap Sockets
 
-2x Power Switch:----------------------------------$3  aud / $2.01 usd
+2x Power Switch
 
-2x Lithium Battery 110mAh:------------------------$14 aud / $9.38 usd
+2x Lithium Battery 110mAh
 
 ---------------------------------------------------------------------
 
-Total---------------------------------------------$199 aud / $133 usd
+i have made the cost lots better by using ally express it is now only 97 usd
+
+
