@@ -1,3 +1,5 @@
+# ** Bluprint Reviewer i have a case ignor the note to reviewer please **
+
 # Wireless-Split-Keeb
 
 A low profile, wireless, 60 key ergonomic split keyboard made for long typing or coding sessions controlled by 2 nice nanos and runs on KMK Firmware
