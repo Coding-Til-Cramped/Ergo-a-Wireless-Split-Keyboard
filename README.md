@@ -32,6 +32,12 @@ PCB:
 
 ![Screenshot 2026-01-16 08:51:56](Images/Screenshot%202026-01-16%20085156.png)
 
+Blender Render:
+
+<p align="center">
+  <img src="Images/Blender%20Render.jpg" alt="Blender Render" style="max-width:100%;height:auto;">
+</p>
+
 # PCB 
 
 I made this in kicad it usese hot swappable switches and two pro micros
