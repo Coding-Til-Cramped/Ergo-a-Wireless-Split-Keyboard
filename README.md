@@ -1,6 +1,6 @@
-# Ergo a Wireless Split Keyboard
+# Split60 a Wireless Split Keyboard
 
-A low profile, wireless, 60 key ergonomic split keyboard made for long typing or coding sessions controlled by 2 nice nanos and runs on KMK Firmware
+A low profile, wireless, 60 key ergonomic split keyboard made for long typing or coding sessions controlled by 2 nice nanos and runs on ZMK Firmware
 
 # Features
 
@@ -44,7 +44,7 @@ I made this in kicad it usese hot swappable switches and two pro micros
 
 # Firmware 
 
-This keyboard will use KMK firmware
+This keyboard will use ZMK firmware
 
 # BOM
 
